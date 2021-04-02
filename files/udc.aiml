@@ -311,11 +311,25 @@
 
 
 <category>
-    <pattern>caio</pattern>
-    <template>ciao ciao</template>
+    <pattern>TAVOLA PERIODICA</pattern>
+    <template>Dimmi il nome dell'elemento</template>
 </category>
-                     
 
+<category>
+    <pattern>IDROGENO</pattern>
+    <template> 
+   
+    <ul>
+        <li>simbolo: H</li>
+        <li>gruppo: 1</li>
+        <li>periodo: 1</li>
+        <li>massa atomica: 1.008u</li>
+        <li> classe: non metalli</li>
+    
+    </ul>
+
+    </template>
+</category>
 
 
 
