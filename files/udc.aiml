@@ -309,13 +309,11 @@
     </template>
 </category>
 
-
-
-
-
-
-
-
+<category>
+    <patter>Ciao<patter>
+        <template>ciao ciao<template>
+            </category>
+                                   
 
 
 
