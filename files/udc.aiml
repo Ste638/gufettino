@@ -321,15 +321,289 @@
    
     <ul>
         <li>simbolo: H</li>
-        <li>gruppo: 1</li>
+        <li>numero atomico:1</li>
+        <li>gruppo: 1A</li>
         <li>periodo: 1</li>
-        <li>massa atomica: 1.008u</li>
+        <li>massa atomica: 1,008u</li>
         <li> classe: non metalli</li>
     
     </ul>
 
     </template>
 </category>
+
+<category>
+    <pattern>ELIO</pattern>
+    <template><ul>
+        <li>simbolo: He</li>
+        <li>numero atomico:2</li>
+        <li>gruppo: 8A</li>
+        <li>periodo: 1</li>
+        <li>massa atomica: 4,003u</li>
+        <li> classe: Gas nobili</li>
+    
+    </ul>
+    </template>
+</category>
+
+<category>
+    <pattern>LITIO</pattern>
+    <template>
+        <ul>
+        <li>simbolo: Li</li>
+        <li>numero atomico:3</li>
+        <li>gruppo: 1A</li>
+        <li>periodo: 2</li>
+        <li>massa atomica: 6,941u</li>
+        <li> classe: metalli alcalini</li>
+    
+    </ul>
+    </template>
+</category>
+
+<category>
+    <pattern>BERILLIO</pattern>
+    <template><ul>
+        <li>simbolo: Be</li>
+        <li>numero atomico:4</li>
+        <li>gruppo: 2A</li>
+        <li>periodo: 2</li>
+        <li>massa atomica: 9,012</li>
+        <li> classe: metalli alcalino-terrosi</li>
+    
+    </ul></template>
+</category>
+
+<category>
+    <pattern>BORO</pattern>
+    <template><ul>
+        <li>simbolo: B</li>
+        <li>numero atomico:5</li>
+        <li>gruppo: 3A</li>
+        <li>periodo: 2</li>
+        <li>massa atomica: 10,81u</li>
+        <li>classe: semi metalli</li>
+    
+    </ul></template>
+</category>
+
+<category>
+    <pattern>CARBONIO</pattern>
+    <template><ul>
+        <li>simbolo: C</li>
+        <li>numero atomico:6</li>
+        <li>gruppo: 4A</li>
+        <li>periodo: 2</li>
+        <li>massa atomica: 12,01u</li>
+        <li>classe: non metalli</li>
+    
+    </ul></template>
+</category>
+
+<category>
+    <pattern>AZOTO</pattern>
+    <template><ul>
+        <li>simbolo: N</li>
+        <li>numero atomico: 7</li>
+        <li>gruppo: 5A</li>
+        <li>periodo: 2</li>
+        <li>massa atomica: 14,01u</li>
+        <li>classe: non metallo</li>
+    
+    </ul></template>
+</category>
+
+<category>
+    <pattern>OSSIGENO</pattern>
+    <template><ul>
+        <li>simbolo: O</li>
+        <li>numero atomico:8</li>
+        <li>gruppo: 6A</li>
+        <li>periodo: 2</li>
+        <li>massa atomica: 16.00u</li>
+        <li>classe: non metallo</li>
+    
+    </ul></template>
+</category>
+
+<category>
+    <pattern>FLUORO</pattern>
+    <template><ul>
+        <li>simbolo: F</li>
+        <li>numero atomico:9</li>
+        <li>gruppo: 7A</li>
+        <li>periodo: 2</li>
+        <li>massa atomica: 19.00u</li>
+        <li>classe: alogeni</li>
+    
+    </ul></template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
