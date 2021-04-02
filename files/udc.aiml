@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+  <category>
+    <pattern>*</pattern>
+    <template>Non so come aiutarti</template>
+  </category>
+  
+ <category>
+     <pattern>CIAO</pattern>
+     
+     <template>Salve, sono gufettino il bottino perfettino
+    Come ti posso aiutare?   
+    Le mie funzioni: <br/>
+    1. Orario scolastico<br/>
+    2. Link lezioni<br/>
+    3. Tavola periodica
+    </template>
+ </category>
+ 
+  <category>
+      <pattern>SALVE</pattern>
+      
+      <template>Salve, sono gufettino il bottino perfettino
+    Come ti posso aiutare?   
+    Le mie funzioni: <br/>
+    1. Orario scolastico<br/>
+    2. Link lezioni<br/>
+    3. Tavola periodica
+    </template>
+  </category>
+  
+  <category>
+      <pattern>BUON GIORNO</pattern>
+      
+      <template>Salve, sono gufettino il bottino perfettino
+    Come ti posso aiutare?   
+    Le mie funzioni: <br/>
+    1. Orario scolastico<br/>
+    2. Link lezioni<br/>
+    3. Tavola periodica
+    </template>
+  </category>
+  
+<category>
+    <pattern>BUONA SERA</pattern>
+    
+    <template>Salve, sono gufettino il bottino perfettino
+    Come ti posso aiutare?   
+    Le mie funzioni: <br/>
+    1. Orario scolastico<br/>
+    2. Link lezioni<br/>
+    3. Tavola periodica
+    </template>
+   
+ </category>
+ 
+<category>
+    <pattern>AO</pattern>
+    <template>Bella fra!😈
+    Come ti posso aiutare?   
+    Le mie funzioni: <br/>
+      1. Orario scolastico <br/>
+      2. Link lezioni<br/>
+      3. Tavola periodica 
+    </template>
+</category>
+
+<category>
+    <pattern>ORARIO SCOLASTICO</pattern>
+    <template>
+       Dimmi il giorno che ti serve <br/>
+       P.s. metti l'accento!<br/> 
+    </template>
+</category>
+
+<category>
+    <pattern>* LUNEDÌ</pattern>
+    <template>Ecco qua! <br/>
+1- Filosofia <br/>
+2- Arte <br/>
+3- Matematica <br/> 
+4- Italiano  <br/>
+5- Inglese  <br/>
+6- Scienze Nat. 
+</template>
+</category>
+
+<category>
+    <pattern>* MARTEDÌ</pattern>
+    <template>
+1- Fisica <br/>
+2- Inglese  <br/>
+3- Filosofia  <br/>
+4- Informatica  <br/>
+5- Scienze Nat.  <br/>
+6- Scienze Nat. <br/>
+    </template>
+</category>
+
+<category>
+    <pattern>* MERCOLEDÌ</pattern>
+    <template>
+1- Italiano  <br/>
+2- Italiano  <br/>
+3- IRC <br/>
+4- Matematica <br/> 
+5- Sc. Motorie <br/>
+6- Fisica
+    </template>
+</category>
+
+<category>
+    <pattern>* GIOVEDÌ</pattern>
+    <template>
+1- Matematica  <br/>
+2- Scienze Nat.  <br/>
+3- Storia  <br/>
+4- Informatica <br/>
+5- Storia  <br/>
+6- Sc. Motorie
+    </template>
+</category>
+
+<category>
+    <pattern>* VENERDÌ</pattern>
+    <template>
+1- Scienze Nat.  <br/>
+2- Italiano  <br/>
+3- Arte <br/>
+4- Matematica <br/> 
+5- Fisica <br/>
+6- Inglese
+    </template>
+</category>
+
+<category>
+    <pattern>LUNEDÌ</pattern>
+    <template>Ecco qua! <br/>
+1- Filosofia <br/>
+2- Arte <br/>
+3- Matematica <br/> 
+4- Italiano  <br/>
+5- Inglese  <br/>
+6- Scienze Nat. 
+</template>
+</category>
+
+<category>
+    <pattern>MARTEDÌ</pattern>
+    <template>
+1- Fisica <br/>
+2- Inglese  <br/>
+3- Filosofia  <br/>
+4- Informatica  <br/>
+5- Scienze Nat.  <br/>
+6- Scienze Nat. <br/>
+    </template>
+</category>
+
+<category>
+    <pattern>MERCOLEDÌ</pattern>
+    <template>
+1- Italiano  <br/>
+2- Italiano  <br/>
+3- IRC <br/>
+4- Matematica <br/> 
+5- Sc. Motorie <br/>
+6- Fisica
+    </template>
+</category>
+
+<category>
+    <pattern>GIOVEDÌ</pattern>
+    <template>
+1- Matematica  <br/>
+2- Scienze Nat.  <br/>
+3- Storia  <br/>
+4- Informatica <br/>
+5- Storia  <br/>
+6- Sc. Motorie
+    </template>
+</category>
+
+<category>
+    <pattern> VENERDÌ</pattern>
+    <template>
+1- Scienze Nat.  <br/>
+2- Italiano  <br/>
+3- Arte <br/>
+4- Matematica <br/> 
+5- Fisica <br/>
+6- Inglese
+    </template>
+</category>
+
+<category>
+    <pattern>LINK LEZIONI</pattern>
+    <template>Che lezione ti serve? </template>
+</category>
+
+<category>
+    <pattern>MATEMATICA</pattern>
+    <template> 
+    <link>
+        <text>Matematica</text>
+        <url>https://meet.google.com/rke-uqbr-xeu</url>
+    </link>
+    </template>
+</category>
+
+<category>
+    <pattern>FISICA</pattern>
+    <template>
+        <link>
+            <text>Fisica</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>SCIENZE</pattern>
+    <template>
+        <link>
+            <text>Scienze</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>ITALIANO</pattern>
+    <template>
+        <link>
+            <text>Italiano</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>STORIA</pattern>
+    <template>
+        <link>
+            <text>Storia</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>EDUCAZIONE FISICA</pattern>
+    <template>
+        <link>
+            <text>Educazione Fisica</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>RELIGIONE</pattern>
+    <template>
+        <link>
+            <text>Religione</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>INFORMATICA</pattern>
+    <template>
+        <link>
+            <text>Informatica</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>ARTE</pattern>
+    <template>
+        <link>
+            <text>Disegno e Storia dell'Arte</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>INGLESE</pattern>
+    <template>
+        <link>
+            <text>Lingua e letteratura straniera (Inglese)</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+<category>
+    <pattern>FILOSOFIA</pattern>
+    <template>
+        <link>
+            <text>Filosofia</text>
+            <url>https://meet.google.com/rke-uqbr-xeu</url>
+        </link>
+    </template>
+</category>
+
+
+
+
+
+
+
+
+
+
+
+
+</aiml>
