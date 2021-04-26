@@ -324,8 +324,8 @@
         <li>numero atomico:1</li>
         <li>gruppo: 1A</li>
         <li>periodo: 1</li>
-        <li>massa atomica: 1,008u</li>
-        <li> classe: non metalli</li>
+        <li>massa atomica: 1.008u</li>
+        <li>classe: non metalli</li>
     
     </ul>
 
@@ -339,7 +339,7 @@
         <li>numero atomico:2</li>
         <li>gruppo: 8A</li>
         <li>periodo: 1</li>
-        <li>massa atomica: 4,003u</li>
+        <li>massa atomica: 4.003u</li>
         <li> classe: Gas nobili</li>
     
     </ul>
@@ -354,7 +354,7 @@
         <li>numero atomico:3</li>
         <li>gruppo: 1A</li>
         <li>periodo: 2</li>
-        <li>massa atomica: 6,941u</li>
+        <li>massa atomica: 6.941u</li>
         <li> classe: metalli alcalini</li>
     
     </ul>
@@ -368,7 +368,7 @@
         <li>numero atomico:4</li>
         <li>gruppo: 2A</li>
         <li>periodo: 2</li>
-        <li>massa atomica: 9,012</li>
+        <li>massa atomica: 9.012u</li>
         <li> classe: metalli alcalino-terrosi</li>
     
     </ul></template>
@@ -381,7 +381,7 @@
         <li>numero atomico:5</li>
         <li>gruppo: 3A</li>
         <li>periodo: 2</li>
-        <li>massa atomica: 10,81u</li>
+        <li>massa atomica: 10.81u</li>
         <li>classe: semi metalli</li>
     
     </ul></template>
@@ -394,7 +394,7 @@
         <li>numero atomico:6</li>
         <li>gruppo: 4A</li>
         <li>periodo: 2</li>
-        <li>massa atomica: 12,01u</li>
+        <li>massa atomica: 12.01u</li>
         <li>classe: non metalli</li>
     
     </ul></template>
@@ -407,7 +407,7 @@
         <li>numero atomico: 7</li>
         <li>gruppo: 5A</li>
         <li>periodo: 2</li>
-        <li>massa atomica: 14,01u</li>
+        <li>massa atomica: 14.301u</li>
         <li>classe: non metallo</li>
     
     </ul></template>
@@ -435,102 +435,1272 @@
         <li>periodo: 2</li>
         <li>massa atomica: 19.00u</li>
         <li>classe: alogeni</li>
-    
+        
     </ul></template>
 </category>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<category>
+    <pattern>NEON</pattern>
+    <template><ul>
+        <li>simbolo: Ne</li>
+        <li>numero atomico:10</li>
+        <li>gruppo: 8A</li>
+        <li>periodo: 2</li>
+        <li>massa atomica: 20.18u</li>
+        <li>classe: Gas Nobili</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>SODIO</pattern>
+    <template><ul>
+        <li>simbolo: Na</li>
+        <li>numero atomico:11</li>
+        <li>gruppo: 1A</li>
+        <li>periodo: 3</li>
+        <li>massa atomica: 22.99u</li>
+        <li>classe: Metalli Alcalini</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>MAGNESIO</pattern>
+    <template><ul>
+        <li>simbolo: Mg</li>
+        <li>numero atomico:12</li>
+        <li>gruppo: 2A</li>
+        <li>periodo: 3</li>
+        <li>massa atomica: 24.31u</li>
+        <li>classe: Metalli Alcalino Terrosi</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>ALLUMINIO</pattern>
+    <template><ul>
+        <li>simbolo: Al</li>
+        <li>numero atomico:13</li>
+        <li>gruppo: 3A</li>
+        <li>periodo: 3</li>
+        <li>massa atomica: 26.98u</li>
+        <li>classe: Metalli del blocco P</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>SILICIO</pattern>
+    <template><ul>
+        <li>simbolo: Si</li>
+        <li>numero atomico:14</li>
+        <li>gruppo: 4A</li>
+        <li>periodo: 3</li>
+        <li>massa atomica: 28.09u</li>
+        <li>classe: Semi Metalli</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>FOSFORO</pattern>
+    <template><ul>
+        <li>simbolo: P</li>
+        <li>numero atomico:15</li>
+        <li>gruppo: 5A</li>
+        <li>periodo: 3</li>
+        <li>massa atomica: 30.97u</li>
+        <li>classe: Non Metalli</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>ZOLFO</pattern>
+    <template><ul>
+        <li>simbolo: S</li>
+        <li>numero atomico:16</li>
+        <li>gruppo: 6A</li>
+        <li>periodo: 3</li>
+        <li>massa atomica: 32.07u</li>
+        <li>classe: Non Metalli</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>CLORO</pattern>
+    <template><ul>
+        <li>simbolo: Cl</li>
+        <li>numero atomico:17</li>
+        <li>gruppo: 7A</li>
+        <li>periodo: 3</li>
+        <li>massa atomica: 35.45u</li>
+        <li>classe: Alogeni</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>ARGON</pattern>
+    <template><ul>
+        <li>simbolo: Ar</li>
+        <li>numero atomico:18</li>
+        <li>gruppo: 8A</li>
+        <li>periodo: 3</li>
+        <li>massa atomica: 39.95u</li>
+        <li>classe: Gas Nobili</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>POTASSIO</pattern>
+    <template><ul>
+        <li>simbolo: K</li>
+        <li>numero atomico:19</li>
+        <li>gruppo: 1A</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 39.10u</li>
+        <li>classe: Metalli Alcalini</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>CALCIO</pattern>
+    <template><ul>
+        <li>simbolo: Ca</li>
+        <li>numero atomico:20</li>
+        <li>gruppo: 2A</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 40.08u</li>
+        <li>classe: Metalli Alcalino Terrosi</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>SCANDIO</pattern>
+    <template><ul>
+        <li>simbolo: Sc</li>
+        <li>numero atomico:21</li>
+        <li>gruppo: 3B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 44.96u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>TITANIO</pattern>
+    <template><ul>
+        <li>simbolo: Ti</li>
+        <li>numero atomico:22</li>
+        <li>gruppo: 4B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 47.87u</li>
+        <li>classe: Metalli del Blocco</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>VANADIO</pattern>
+    <template><ul>
+        <li>simbolo: V</li>
+        <li>numero atomico:23</li>
+        <li>gruppo: 5B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 50.94u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>CROMO</pattern>
+    <template><ul>
+        <li>simbolo: Cr</li>
+        <li>numero atomico:24</li>
+        <li>gruppo: 6B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 52.00u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>MANGANESE</pattern>
+    <template><ul>
+        <li>simbolo: Mn</li>
+        <li>numero atomico:25</li>
+        <li>gruppo: 7B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 54.94u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>FERRO</pattern>
+    <template><ul>
+        <li>simbolo: Fe</li>
+        <li>numero atomico:26</li>
+        <li>gruppo: 8B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 55.85u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>COBALTO</pattern>
+    <template><ul>
+        <li>simbolo: Co</li>
+        <li>numero atomico: 27</li>
+        <li>gruppo: 9B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 58.93u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>NICHEL</pattern>
+    <template><ul>
+        <li>simbolo: Ni</li>
+        <li>numero atomico:28</li>
+        <li>gruppo: 10B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 58.69u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>RAME</pattern>
+    <template><ul>
+        <li>simbolo: Cu</li>
+        <li>numero atomico:29</li>
+        <li>gruppo: 11B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 63.55u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>ZINCO</pattern>
+    <template><ul>
+        <li>simbolo: Zn</li>
+        <li>numero atomico:30</li>
+        <li>gruppo: 12B</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 65.37u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>GALLIO</pattern>
+    <template><ul>
+        <li>simbolo: Ga</li>
+        <li>numero atomico:31</li>
+        <li>gruppo: 3A</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 69.72u</li>
+        <li>classe: Metalli del Blocco p</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>GERMANIO</pattern>
+    <template><ul>
+        <li>simbolo: Ge</li>
+        <li>numero atomico:32</li>
+        <li>gruppo: 4A</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 72.64u</li>
+        <li>classe: Semimetalli</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>ARSENICO</pattern>
+    <template><ul>
+        <li>simbolo: As</li>
+        <li>numero atomico:33</li>
+        <li>gruppo: 5A</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 74.92u</li>
+        <li>classe: Semimetalli</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>SELENIO</pattern>
+    <template><ul>
+        <li>simbolo: Se</li>
+        <li>numero atomico:34</li>
+        <li>gruppo: 6A</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 78.96u</li>
+        <li>classe: Non Metalli</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>BROMO</pattern>
+    <template><ul>
+        <li>simbolo: Br</li>
+        <li>numero atomico:35</li>
+        <li>gruppo: 7A</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 79.91u</li>
+        <li>classe: Alogeni</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>CRIPTON</pattern>
+    <template><ul>
+        <li>simbolo: Kr</li>
+        <li>numero atomico:36</li>
+        <li>gruppo: 8A</li>
+        <li>periodo: 4</li>
+        <li>massa atomica: 83.80u</li>
+        <li>classe: Gas Nobili</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>RUBIDIO</pattern>
+    <template><ul>
+        <li>simbolo: Rb</li>
+        <li>numero atomico:37</li>
+        <li>gruppo: 1A</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 85.47u</li>
+        <li>classe: Metalli Alcalini</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>STRONZIO</pattern>
+    <template><ul>
+        <li>simbolo: Sr</li>
+        <li>numero atomico:38</li>
+        <li>gruppo: 2A</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 87.92u</li>
+        <li>classe: Metalli Alcalino Terrosi</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>ITTRIO</pattern>
+    <template><ul>
+        <li>simbolo: Y</li>
+        <li>numero atomico:39</li>
+        <li>gruppo: 3B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 88.91u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>ZIRCONIO</pattern>
+    <template><ul>
+        <li>simbolo: Zr</li>
+        <li>numero atomico:40</li>
+        <li>gruppo: 4B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica:91.22u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+
+<category>
+    <pattern>NIOBIO</pattern>
+    <template><ul>
+        <li>simbolo: Nb</li>
+        <li>numero atomico:41</li>
+        <li>gruppo: 5B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 92,91u</li>
+        <li>classe: Metalli del Blocco d</li>
+        
+    </ul></template>
+</category>
+<category>
+<pattern>MOLIBDENO</pattern>
+    <template><ul>
+        <li>simbolo: Mo</li>
+        <li>numero atomico:42</li>
+        <li>gruppo: 6B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 95,94u</li>
+        <li>classe: Metalli del Blocco d</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TECNEZIO</pattern>
+    <template><ul>
+        <li>simbolo: Tc</li>
+        <li>numero atomico:43</li>
+        <li>gruppo: 7B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: [98,91]u</li>
+        <li>classe: Metalli del Blocco d</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>RUTENIO</pattern>
+    <template><ul>
+        <li>simbolo: Ru</li>
+        <li>numero atomico:44</li>
+        <li>gruppo: 8B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 101,1u</li>
+        <li>classe: Metalli del Blocco d</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>RODIO</pattern>
+    <template><ul>
+        <li>simbolo: Rh</li>
+        <li>numero atomico:45</li>
+        <li>gruppo: 9B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 102,9u</li>
+        <li>classe: Metalli del Blocco d</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>PALLADIO</pattern>
+    <template><ul>
+        <li>simbolo: Pd</li>
+        <li>numero atomico:46</li>
+        <li>gruppo: 10B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 106,4u</li>
+        <li>classe: Metalli del Blocco d</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>ARGENTO</pattern>
+    <template><ul>
+        <li>simbolo: Ag</li>
+        <li>numero atomico:47</li>
+        <li>gruppo: 11B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 107,9u</li>
+        <li>classe: Metalli del Blocco d</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>CADMIO</pattern>
+    <template><ul>
+        <li>simbolo: Cd</li>
+        <li>numero atomico:48</li>
+        <li>gruppo:12B</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 112,4u</li>
+        <li>classe: Metalli del Blocco d</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>INDIO</pattern>
+    <template><ul>
+        <li>simbolo: In</li>
+        <li>numero atomico:49</li>
+        <li>gruppo: 3A</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 114,8u</li>
+        <li>classe: Metalli del Blocco p</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>STAGNO</pattern>
+    <template><ul>
+        <li>simbolo: Sn</li>
+        <li>numero atomico:50</li>
+        <li>gruppo: 4A</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 118,7u</li>
+        <li>classe: Metalli del Blocco p</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>ANTIMONIO</pattern>
+    <template><ul>
+        <li>simbolo: Sb</li>
+        <li>numero atomico:51</li>
+        <li>gruppo: 5A</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 121,8u</li>
+        <li>classe: Semimetalli </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TELLURIO</pattern>
+    <template><ul>
+        <li>simbolo: Te</li>
+        <li>numero atomico:52</li>
+        <li>gruppo: 6A</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 127,6u</li>
+        <li>classe: Semimetalli </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>IODIO</pattern>
+    <template><ul>
+        <li>simbolo: I</li>
+        <li>numero atomico:53</li>
+        <li>gruppo: 7A</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 126,9u</li>
+        <li>classe: Alogeni </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>XENON</pattern>
+    <template><ul>
+        <li>simbolo: Xe</li>
+        <li>numero atomico:54</li>
+        <li>gruppo: 8A</li>
+        <li>periodo: 5</li>
+        <li>massa atomica: 131,3u</li>
+        <li>classe: Gas nobili </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>CESIO</pattern>
+    <template><ul>
+        <li>simbolo: Cs</li>
+        <li>numero atomico:55</li>
+        <li>gruppo: 1A</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 132,9u</li>
+        <li>classe: Metalli alcalini </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>BARIO</pattern>
+    <template><ul>
+        <li>simbolo: Ba</li>
+        <li>numero atomico:56</li>
+        <li>gruppo: 2A</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 137,3u</li>
+        <li>classe: Metalli alcalino terrosi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>LANTANIO</pattern>
+    <template><ul>
+        <li>simbolo: La</li>
+        <li>numero atomico:57</li>
+        <li>gruppo: 3B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 138,9u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>CERIO</pattern>
+    <template><ul>
+        <li>simbolo: Ce</li>
+        <li>numero atomico:58</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 140,1u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>PRASEODIMIO</pattern>
+    <template><ul>
+        <li>simbolo: Pr</li>
+        <li>numero atomico:59</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 140,9u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>NEODIMIO</pattern>
+    <template><ul>
+        <li>simbolo: Nd</li>
+        <li>numero atomico:60</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 144,2u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>PROMEZIO</pattern>
+    <template><ul>
+        <li>simbolo: Pm</li>
+        <li>numero atomico:61</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: [145]u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>SAMARIO</pattern>
+    <template><ul>
+        <li>simbolo: Sm</li>
+        <li>numero atomico:62</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 150,4u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>EUROPIO</pattern>
+    <template><ul>
+        <li>simbolo: Eu</li>
+        <li>numero atomico:63</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 152u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>GADOLINIO</pattern>
+    <template><ul>
+        <li>simbolo: Gd</li>
+        <li>numero atomico:64</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 157,3u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TERBIO</pattern>
+    <template><ul>
+        <li>simbolo: Tb</li>
+        <li>numero atomico:65</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 158,9u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>DISPROSIO</pattern>
+    <template><ul>
+        <li>simbolo: Dy</li>
+        <li>numero atomico:66</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 162,5u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>OLMIO</pattern>
+    <template><ul>
+        <li>simbolo: Ho</li>
+        <li>numero atomico:67</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 164,9u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>ERBIO</pattern>
+    <template><ul>
+        <li>simbolo: Er</li>
+        <li>numero atomico:68</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 167,3u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TULIO</pattern>
+    <template><ul>
+        <li>simbolo: Tm</li>
+        <li>numero atomico:69</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 168,9u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>ITTERBIO</pattern>
+    <template><ul>
+        <li>simbolo: Yb</li>
+        <li>numero atomico:70</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 173u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>LUTEZIO</pattern>
+    <template><ul>
+        <li>simbolo: Lu</li>
+        <li>numero atomico:71</li>
+        <li>gruppo: /</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 175u</li>
+        <li>classe: Lantanidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>AFNIO</pattern>
+    <template><ul>
+        <li>simbolo: Hf</li>
+        <li>numero atomico:72</li>
+        <li>gruppo: 4B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 178,5u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TANTALIO</pattern>
+    <template><ul>
+        <li>simbolo: Ta</li>
+        <li>numero atomico:73</li>
+        <li>gruppo: 5B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 180,9u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TUNGSTENO</pattern>
+    <template><ul>
+        <li>simbolo: W</li>
+        <li>numero atomico:74</li>
+        <li>gruppo: 6B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 183,8u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>RENIO</pattern>
+    <template><ul>
+        <li>simbolo: Re</li>
+        <li>numero atomico:75</li>
+        <li>gruppo: 7B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 186,2u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>OSMIO</pattern>
+    <template><ul>
+        <li>simbolo: Os</li>
+        <li>numero atomico:76</li>
+        <li>gruppo: 8B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 190,2u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>IRIDIO</pattern>
+    <template><ul>
+        <li>simbolo: Ir</li>
+        <li>numero atomico:77</li>
+        <li>gruppo: 9B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 192,2u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>PLATINO</pattern>
+    <template><ul>
+        <li>simbolo: Pt</li>
+        <li>numero atomico:78</li>
+        <li>gruppo: 10B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 195,1u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>ORO</pattern>
+    <template><ul>
+        <li>simbolo: Au</li>
+        <li>numero atomico:79</li>
+        <li>gruppo: 11B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 197u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>MERCURIO</pattern>
+    <template><ul>
+        <li>simbolo: Hg</li>
+        <li>numero atomico:80</li>
+        <li>gruppo: 12B</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 200,6u</li>
+        <li>classe: Metalli del blocco d </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TALLIO</pattern>
+    <template><ul>
+        <li>simbolo: Tl</li>
+        <li>numero atomico:81</li>
+        <li>gruppo: 3A</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 204,4u</li>
+        <li>classe: Metalli del blocco p </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>PIOMBO</pattern>
+    <template><ul>
+        <li>simbolo: Pb</li>
+        <li>numero atomico:82</li>
+        <li>gruppo: 4A</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 207,2u</li>
+        <li>classe: Metalli del blocco p </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>BISMUTO</pattern>
+    <template><ul>
+        <li>simbolo: Bi</li>
+        <li>numero atomico:83</li>
+        <li>gruppo: 5A</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: 209u</li>
+        <li>classe: Metalli del blocco p </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>POLOIO</pattern>
+    <template><ul>
+        <li>simbolo: Po</li>
+        <li>numero atomico:84</li>
+        <li>gruppo: 6A</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: [209]u</li>
+        <li>classe: Semimetalli </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>ASTATO</pattern>
+    <template><ul>
+        <li>simbolo: At</li>
+        <li>numero atomico:85</li>
+        <li>gruppo: 7A</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: [210]u</li>
+        <li>classe: Semimetalli </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>RADON</pattern>
+    <template><ul>
+        <li>simbolo: Rn</li>
+        <li>numero atomico:86</li>
+        <li>gruppo: 8A</li>
+        <li>periodo: 6</li>
+        <li>massa atomica: [222]u</li>
+        <li>classe: Gas nobili </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>FRANCIO</pattern>
+    <template><ul>
+        <li>simbolo: Fr</li>
+        <li>numero atomico:87</li>
+        <li>gruppo: 1A</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [223]u</li>
+        <li>classe: Metalli alcalini </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>RADIO</pattern>
+    <template><ul>
+        <li>simbolo: Ra</li>
+        <li>numero atomico:88</li>
+        <li>gruppo: 2A</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [226]u</li>
+        <li>classe: Metalli alcalino terrosi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>ATTINIO</pattern>
+    <template><ul>
+        <li>simbolo: Ac</li>
+        <li>numero atomico:89</li>
+        <li>gruppo: 3B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [227]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TORIO</pattern>
+    <template><ul>
+        <li>simbolo: Th</li>
+        <li>numero atomico:90</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: 232u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>PROTOATTINIO</pattern>
+    <template><ul>
+        <li>simbolo: Pa</li>
+        <li>numero atomico:91</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: 231u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>URANIO</pattern>
+    <template><ul>
+        <li>simbolo: U</li>
+        <li>numero atomico:92</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: 238u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>NETTUNIO</pattern>
+    <template><ul>
+        <li>simbolo: Np</li>
+        <li>numero atomico:93</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [237]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>PLUTONIO</pattern>
+    <template><ul>
+        <li>simbolo: Pu</li>
+        <li>numero atomico:94</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [244]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>AMERICIO</pattern>
+    <template><ul>
+        <li>simbolo: Am</li>
+        <li>numero atomico:95</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [243]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>CURIO</pattern>
+    <template><ul>
+        <li>simbolo: Cm</li>
+        <li>numero atomico:96</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [247]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>BERKELIO</pattern>
+    <template><ul>
+        <li>simbolo: Bk</li>
+        <li>numero atomico:97</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [247]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>CALIFORNIO</pattern>
+    <template><ul>
+        <li>simbolo: Cf</li>
+        <li>numero atomico:98</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [251]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>EINSTENIO</pattern>
+    <template><ul>
+        <li>simbolo: Es</li>
+        <li>numero atomico:99</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [252]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>FERMIO</pattern>
+    <template><ul>
+        <li>simbolo: Fm</li>
+        <li>numero atomico:100</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [257]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>MENDELEVIO</pattern>
+    <template><ul>
+        <li>simbolo: Md</li>
+        <li>numero atomico:101</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [258]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>NOBELIO</pattern>
+    <template><ul>
+        <li>simbolo: No</li>
+        <li>numero atomico:102</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [259]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>LAURENZIO</pattern>
+    <template><ul>
+        <li>simbolo: Lr</li>
+        <li>numero atomico:103</li>
+        <li>gruppo: /</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [262]u</li>
+        <li>classe: Attinidi </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>RUTHERFORDIO</pattern>
+    <template><ul>
+        <li>simbolo: Rf</li>
+        <li>numero atomico:104</li>
+        <li>gruppo: 4B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [261]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>DUBNIO</pattern>
+    <template><ul>
+        <li>simbolo: Db</li>
+        <li>numero atomico:105</li>
+        <li>gruppo: 5B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [262]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>SEABORGIO</pattern>
+    <template><ul>
+        <li>simbolo:Sg</li>
+        <li>numero atomico:106</li>
+        <li>gruppo: 6B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [266]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>BOHRIO</pattern>
+    <template><ul>
+        <li>simbolo: Bh</li>
+        <li>numero atomico:107</li>
+        <li>gruppo: 7B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [264]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>HASSIO</pattern>
+    <template><ul>
+        <li>simbolo: Hs</li>
+        <li>numero atomico:108</li>
+        <li>gruppo: 8B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [265]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>MEITNERIO</pattern>
+    <template><ul>
+        <li>simbolo: Mt</li>
+        <li>numero atomico:109</li>
+        <li>gruppo: 9B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [268]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>DARMSTADIO</pattern>
+    <template><ul>
+        <li>simbolo: Ds</li>
+        <li>numero atomico:110</li>
+        <li>gruppo: 10B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [271]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>ROENTGENIO</pattern>
+    <template><ul>
+        <li>simbolo: Rc</li>
+        <li>numero atomico:111</li>
+        <li>gruppo: 11B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [272]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>COPERNICIO</pattern>
+    <template><ul>
+        <li>simbolo: Cn</li>
+        <li>numero atomico:112</li>
+        <li>gruppo: 12B</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [285]u</li>
+        <li>classe: metalli del blocco D </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>NIHONIO</pattern>
+    <template><ul>
+        <li>simbolo:Nh</li>
+        <li>numero atomico:113</li>
+        <li>gruppo: 3A</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [284]u</li>
+        <li>classe: / </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>FLEROVIO</pattern>
+    <template><ul>
+        <li>simbolo: Fl</li>
+        <li>numero atomico:114</li>
+        <li>gruppo: 4A</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [289]u</li>
+        <li>classe: / </li>
+       </ul></template>
+</category> 
+<category>
+<pattern>MOSCOVIO</pattern>
+    <template><ul>
+        <li>simbolo: Mc</li>
+        <li>numero atomico:115</li>
+        <li>gruppo: 5A</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [288]u</li>
+        <li>classe: /</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>LIVERMORIO</pattern>
+    <template><ul>
+        <li>simbolo: Lv</li>
+        <li>numero atomico:116</li>
+        <li>gruppo: 6A</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [293]u</li>
+        <li>classe: /</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>TENNESSINIO</pattern>
+    <template><ul>
+        <li>simbolo: Ts</li>
+        <li>numero atomico:117</li>
+        <li>gruppo:7A</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [294]u</li>
+        <li>classe: /</li>
+       </ul></template>
+</category> 
+<category>
+<pattern>OGANESSIO</pattern>
+    <template><ul>
+        <li>simbolo:Og</li>
+        <li>numero atomico:118</li>
+        <li>gruppo: 8A</li>
+        <li>periodo: 7</li>
+        <li>massa atomica: [294]u</li>
+        <li>classe: /</li>
+       </ul></template>
+</category> 
 
 
 
